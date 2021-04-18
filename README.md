@@ -1,6 +1,6 @@
 # WebServer + RestServer
 
-Mantenimiento de la colección de usuarios
+JWT añadido
 
 ## Uso
 
