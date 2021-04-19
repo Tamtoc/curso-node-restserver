@@ -2,6 +2,7 @@ node_modules/
 
 apuntes.txt
 
+.env
+
 http-response-codes.pdf
 
-.env
