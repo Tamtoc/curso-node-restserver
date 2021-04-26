@@ -1,6 +1,6 @@
 # WebServer + RestServer
 
-Google SignIn implemented
+CRUD products, categories and searches
 
 ## Uso
 
