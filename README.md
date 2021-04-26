@@ -1,10 +1,10 @@
 # WebServer + RestServer
 
-CRUD products, categories and searches
+This is the basis of a rest server for a Coffee system
 
-## Uso
+## Use
 
-Reconstruir los módulos de Node
+Build node modules
 
 ```
 npm install
