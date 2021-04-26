@@ -55,7 +55,7 @@ const putUser = async (req, res = response) => {
 
     const user = await User.findByIdAndUpdate( id, rest );
 
-    res.status(400).json(user);
+    res.json(user);
 
 }
 

@@ -40,6 +40,6 @@ router.delete('/:id', [
     check('id', 'Is not a valid ID').isMongoId(),
     check('id').custom( userExistsById ),
     validateFields
-], deleteUser);
+], deleteUser );
 
 module.exports = router;
