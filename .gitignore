@@ -6,3 +6,6 @@ apuntes.txt
 
 http-response-codes.pdf
 
+uploads/products/**.*
+uploads/users/**.*
+
